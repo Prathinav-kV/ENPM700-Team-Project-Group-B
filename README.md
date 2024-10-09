@@ -1,7 +1,7 @@
 # Test Driven Development - Group 5
 
 # C++ Boilerplate v2 Badges
-![CICD Workflow status](https://github.com/Prathinav-kV/ENPM700-Team-Project-Group-B/actions/workflows/run-tests-and-upload-coverage-codecov.yml/badge.svg) [![codecov](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B/graph/badge.svg?token=mrguEapNpW)](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![CICD Workflow status](https://github.com/Prathinav-kV/ENPM700-Team-Project-Group-B/actions/workflows/run-unit-test-and-upload-codecov.yml/badge.svg) [![codecov](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B/graph/badge.svg?token=mrguEapNpW)](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Authors
 | Role / Part | Part 1                    |
