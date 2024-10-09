@@ -32,7 +32,7 @@ Simple starter C++ project with:
   # to see verbose output, do:
   cmake --build build/ --verbose
 # Run program:
-  ./build/app/pid-app
+  ./build/app/pid-controller-app
 # Run tests:
   cd build/; ctest; cd ..
   # or if you have newer cmake
