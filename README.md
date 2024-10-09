@@ -9,6 +9,30 @@
 | Driver   | Prathinav Karnala Venkata | Nazrin Gurbanova |
 | Navigator| Sivaram Dheeraj Vishnubhotla         | Datta Lohith Gannavarapu |
 
+# About The Project
+## PID Controller
+
+This project implements a simple *PID (Proportional-Integral-Derivative)* controller for velocity adjustments in C++. The controller calculates a control output based on the difference between a target setpoint and the actual velocity.
+
+### Files
+
+- *pid_controller.hpp*: Contains the class declaration for the PID, including the member variables and methods.
+- *src.cpp*: Contains the implementation of the PID methods, including the constructor and the calculate() function.
+
+### Features
+
+- *Proportional Term (Kp)*: Calculates control based on the current error.
+- *Integral Term (Ki)*: Accumulates past errors to address steady-state error.
+- *Derivative Term (Kd)*: Predicts future errors by considering the rate of error change.
+
+### Usage
+
+1. Create an instance of the PID class by providing the Kp, Ki, Kd values, and a time step.
+2. Call the calculate() method with the desired setpoint and the actual velocity to get the adjusted control output.
+
+# Code Inspiration
+https://gist.github.com/bradley219/5373998
+
 ## Overview
 
 Simple starter C++ project with:
