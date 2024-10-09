@@ -1,13 +1,13 @@
 # Test Driven Development - Group 5
 
 # C++ Boilerplate v2 Badges
-![CICD Workflow status](https://github.com/Prathinav-kV/ENPM700-Team-Project-Group-B/actions/workflows/run-unit-test-and-upload-codecov.yml/badge.svg) [![codecov](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B/graph/badge.svg?token=mrguEapNpW)](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![CICD Workflow status](https://github.com/Prathinav-kV/ENPM700-Team-Project-Group-B/actions/workflows/run-tests-and-upload-coverage-codecov.yml/badge.svg) [![codecov](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B/graph/badge.svg?token=mrguEapNpW)](https://codecov.io/gh/Prathinav-kV/ENPM700-Team-Project-Group-B) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Authors
-| Role / Part | Part 1                    |
-|-------------|---------------------------|
-| Driver   | Prathinav Karnala Venkata | 
-| Navigator| Sivaram Dheeraj Vishnubhotla         | 
+| Role / Part | Part 1                    | Part 2|
+|-------------|---------------------------|-------|
+| Driver   | Prathinav Karnala Venkata | Nazrin Gurbanova |
+| Navigator| Sivaram Dheeraj Vishnubhotla         | Datta Lohith Gannavarapu |
 
 ## Overview
 
@@ -19,8 +19,8 @@ Simple starter C++ project with:
 ## Standard install via command-line
 ```bash
 # Download the code:
-  git clone https://github.com/Datta-Lohith/ENPM700-Team-Project-Group-A.git
-  cd ENPM700-Team-Project-Group-A
+  git clone https://github.com/Prathinav-kV/ENPM700-Team-Project-Group-B.git
+  cd ENPM700-Team-Project-Group-B
 # Configure the project and generate a native build system:
   # Must re-run this command whenever any CMakeLists.txt file has been changed.
   cmake -S ./ -B build/
@@ -74,4 +74,3 @@ This generates a index.html page in the build/app_coverage sub-directory that ca
 
 # UML Diagram
 ![UML Diagram](https://github.com/Prathinav-kV/ENPM700-Team-Project-Group-B/blob/main/UML/UML%20Diagram.png?raw=true)
-
